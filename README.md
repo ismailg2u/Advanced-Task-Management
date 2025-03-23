@@ -73,11 +73,11 @@ Lorem Ipsum Corporation has transitioned from an outdated task management system
 The application includes unit tests to ensure business logic is functioning correctly, and the code coverage meets the required 80%.
 
 ### Run the tests:
-     ```bash
+     
      mvn test
 
 ### Verify the application:
-    ```bash
+    
     mvn install
     mvn verify
 
