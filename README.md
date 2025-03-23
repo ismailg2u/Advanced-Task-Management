@@ -48,7 +48,7 @@ Lorem Ipsum Corporation has transitioned from an outdated task management system
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/advanced-task-management.git
+   git clone https://github.com/ismailg2u/Advanced-Task-Management
    cd advanced-task-management
    
 2. Configure your PostgreSQL database:
