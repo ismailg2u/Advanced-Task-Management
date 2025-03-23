@@ -58,27 +58,27 @@ Lorem Ipsum Corporation has transitioned from an outdated task management system
 
 3. Update your application.properties with the correct database credentials:
 
-  ```bash
-  spring.datasource.url=jdbc:postgresql://localhost:5432/advancedtaskmanager
-  spring.datasource.username=your_username
-  spring.datasource.password=your_password
+    ```bash
+    spring.datasource.url=jdbc:postgresql://localhost:5432/advancedtaskmanager
+    spring.datasource.username=your_username
+    spring.datasource.password=your_password
 
 4. Build and run the application:
- ```bash
- mvn clean install
- mvn spring-boot:run
+    ```bash
+    mvn clean install
+    mvn spring-boot:run
 
 ## Testing
 
 The application includes unit tests to ensure business logic is functioning correctly, and the code coverage meets the required 80%.
 
 ### Run the tests:
-```bash
-mvn test
+   ```bash
+   mvn test
 
 ### Verify the application:
-```bash
-mvn install
-mvn verify
+   ```bash
+   mvn install
+   mvn verify
 
 
